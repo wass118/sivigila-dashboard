@@ -4,6 +4,11 @@
 
 Una Aplicación Web Progresiva (PWA) moderna e interactiva para análisis epidemiológico de datos SIVIGILA en Colombia. Permite importar, procesar y visualizar datos de vigilancia epidemiológica con gráficas interactivas, georreferenciación de casos y análisis de tendencias.
 
+> **Proyecto adicional en este repositorio:** [`humanizador_editorial/`](humanizador_editorial/README.md)
+> contiene el *Humanizador Editorial Técnico*, una app Flutter independiente para
+> revisar la redacción de textos técnicos (incluidos informes de vigilancia) con
+> protección de datos y auditoría de fidelidad.
+
 ## 🌟 Características
 
 ✅ **Importación de Datos**
